@@ -1,0 +1,17 @@
+---
+:id: 290138542
+:submitters:
+- :name: Siddhartha Sumant Mysore
+  :email: ssumantmysore@ucsd.edu
+- :name: Alex Nolan
+  :email: acnolan@ucsd.edu
+- :name: Hargun Kaur Kohli
+  :email: hkaurkohli@ucsd.edu
+- :name: Srujith Kapuluri
+  :email: skapuluri@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-18 05:29:17.587270000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-17 21:29:17.587270000 Z
+:status: processed
